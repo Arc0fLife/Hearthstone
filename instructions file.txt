@@ -1,0 +1,23 @@
+NOTE: Resolution= 1366x768 otherwise items are misplaced
+0- To start the game, open package view and Run the class StartGame
+1- It's obvious right after you press play. Whenever you hover over any hero it will display some info on the bottom.
+2- Click on the minion
+3- If the spell doesnt require a target, just click and it will cast. Otherwise click on the spell and choose your target.
+4- Click on ur "attacker" minion and choose your target.
+5- The button is well displayed just as the original game.
+6- Player 1 is on the bottom and Player 2 is on top. They have fixed fields and hands orientations.(The game is on 1 window)
+7- When you hover over the deck it will display how many cards are left.
+   When you hover over the heroes it will display their names.
+   When you hover over the heropowers it will display their actions.
+   When you hover over any card in any hand it will display a zoomed image of it on the left.
+   When you hover over any minion in any field it will display a zoomed image on the left.
+   Rarities are displayed as gems in the bottom centre of the card (just like the game).
+   Basic Rarity is no gem. 
+   Common Rarity is grey gem.
+   Rare Rarity is blue Gem
+   Epic rarity is purple gem
+   Legendary Rarity is Orange gem.
+   Taunt, sleeping and divine shield are displayed just as the original game.
+   Dont mute your pc for our game is full of audios.
+   Enjoy;)!!!!!!!!!!!!
+   
